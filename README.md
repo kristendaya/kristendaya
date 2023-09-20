@@ -11,7 +11,7 @@
 
   # TECH STACK
 
-  <img src="https://img.shields.io/badge/{Linux}-{Black}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/>
+  <img src="https://img.shields.io/badge/Linux-Black?style={스타일}&logo=Linux&logoColor=black"/>
 
 ![Kristen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kristendaya&show_icons=true&theme=radical)
 </div>
