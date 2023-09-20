@@ -11,8 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Kristen's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 ![Kristen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kristendaya&show_icons=true&theme=radical)
 
