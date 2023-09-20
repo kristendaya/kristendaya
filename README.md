@@ -3,7 +3,7 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=KRISTEN'S%20GITHUB%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
  
-  KRISTEN DAYA LEE  
+ # KRISTEN DAYA LEE  
 
   Currently living in Korea. I'm a junior web developer but interested in Chatbot and LLM as well.
 
