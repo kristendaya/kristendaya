@@ -5,7 +5,11 @@
  
  # KRISTEN DAYA LEE  
 
-  Currently living in Korea. I'm a junior web developer but interested in Chatbot and LLM as well.
+A junior web developer  
+
+Currently living in Korea  
+
+recently in Chatbot project
 
 
 
