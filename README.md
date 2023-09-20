@@ -2,6 +2,7 @@
 
 
 HI THIS IS KRISTEN DAYA
+/n
 currently living in Korea. I'm a junior web developer but interested in Chatbot and LLM as well.
 
 
