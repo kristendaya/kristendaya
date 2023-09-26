@@ -7,7 +7,9 @@
 
 A junior web developer in Korea  
 
-interested in Chatbot,AI,web develop,
+interested in Chatbot,AI,web develop
+
+project : Netflix&Trip, Chatbot with PDF, AI ERP bot
 
 
 
