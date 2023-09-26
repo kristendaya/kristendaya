@@ -5,11 +5,9 @@
  
  # KRISTEN DAYA LEE  
 
-A junior web developer  
+A junior web developer in Korea  
 
-Currently living in Korea  
-
-recently in Chatbot project
+interested in Chatbot,AI,web develop,
 
 
 
