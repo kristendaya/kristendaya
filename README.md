@@ -8,6 +8,7 @@
 A junior web developer in Korea  
 
 interested in Chatbot,AI,web develop
+currently working on Chaybot using Langchain,VectorDB,OpenAI,AWS
 
 Projects : Netflix&Trip, Chatbot with PDF, AI ERP bot
 
