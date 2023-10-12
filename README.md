@@ -6,7 +6,7 @@
  # KRISTEN DAYA LEE  
 
 A junior web developer in Korea  
-always welcome to new projects and collaboration 
+always welcome to new projects and collaboration  
 Korean and English are available
 
 Interested in Chatbot,AI,web develop
