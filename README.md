@@ -62,7 +62,7 @@ Projects : Netflix&Trip, Chatbot with PDF, AI ERP bot, Education-genius
 # ongoing Project
 # Smart AI Education program and Website
 <img width="500" alt="image" src="https://github.com/LeeMyungdeok/Natural-Language-Processing-Project/assets/115915362/f522681a-8508-443e-b590-5c42ad712bd5">
-
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115915362/271756616-b21ee2ff-3d60-4b5b-aaa3-9deb467149d0.png">
 
 # Projects
 # Customized AI FAQ BOT on Webpage
