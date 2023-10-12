@@ -68,9 +68,11 @@ Projects : Netflix&Trip, Chatbot with PDF, AI ERP bot, Education-genius
 # Customized AI FAQ BOT on Webpage
 <img width="500" alt="image" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yYr5bHTnj863TxHNANWlaA.png">  
 
-<챗봇을 통한 플랫폼 운영의 편의성 개선 및 사내 단순 반복업무 대체>   
-○ '사이버 보안 교육 플랫폼'내 FAQ 챗봇을 추가함으로써 기존의 방식인관리자가 직접 답변해주는 방식을 개선하여 관리자의 업무 부담을 덜어준다.  
-○ 또한 사용자도 즉각적으로 질문에 대한 응답을 받을 수 있기 때문에 사용자의 편의성도 증대되는 효과를 기대해 볼 수 있다.  
-○ 추가적으로 구현한 '사내 업무 보조 챗봇'을 통하여 문서를 업로드, 다운로드 하거나, 문서의 내용을 요약, 회의 음성을 요약하여 회의록을 작성해주는 기능들을 통해 사내 업무에 있어서 단순 업무의 반복을 대신해 줄 수 있을 것으로 기대된다.  
+OpenAI의 API와 VectorDB를 활용하여 만든 챗봇으로 상담원의 역할을 대신하게 해주는 챗봇 프로젝트   
+
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/74886046/273421693-4f53e9a1-be74-4997-ab08-3c8f62beb627.gif">  
+
+
 
 </div>
