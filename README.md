@@ -6,13 +6,13 @@
  # KRISTEN DAYA LEE  
 
 A junior web developer in Korea  
-always welcome for new projects and collaboration 
-(Korean/English)
+always welcome to new projects and collaboration 
+Korean and English are available
 
-interested in Chatbot,AI,web develop
-currently working on Chaybot using Langchain,VectorDB,OpenAI,AWS
+Interested in Chatbot,AI,web develop
+Currently working on Chaybot using Langchain,VectorDB,OpenAI,AWS
 
-Projects : Netflix&Trip, Chatbot with PDF, AI ERP bot
+Projects : Netflix&Trip, Chatbot with PDF, AI ERP bot, Education-genius
 
 
 
