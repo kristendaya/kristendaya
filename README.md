@@ -13,6 +13,8 @@ Interested in Chatbot,AI,web develop
 Currently working on Chaybot using Langchain,VectorDB,OpenAI,AWS
 
 Projects : Netflix&Trip, Chatbot with PDF, AI ERP bot, Education-genius
+Medium : https://medium.com/@pkpg0339 (ENGLISH)
+Tstory : https://kingoferror.tistory.com/ (KOREAN)
 
 
 
@@ -70,9 +72,12 @@ Projects : Netflix&Trip, Chatbot with PDF, AI ERP bot, Education-genius
 
 OpenAI의 API와 VectorDB를 활용하여 만든 챗봇으로 상담원의 역할을 대신하게 해주는 챗봇 프로젝트   
 
-
+# Netflix & Trip project :: The correlation between the success of K-contents on Netflix and travelers
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/74886046/273421693-4f53e9a1-be74-4997-ab08-3c8f62beb627.gif">  
 
-
+Squid game, the glory ..   
+Well, just 5 years ago, only few ppl are interested in Kpop. My friend from other countries used to ask like "Do you know BTS" when I was in AUS.
+but suddely they started to ask "Have u watched Squid Game????".  
+yes. it's a big move. and we wanted to see the effect of the success of K-movie on Netflix.
 
 </div>
