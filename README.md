@@ -76,8 +76,9 @@ OpenAI의 API와 VectorDB를 활용하여 만든 챗봇으로 상담원의 역�
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/74886046/273421693-4f53e9a1-be74-4997-ab08-3c8f62beb627.gif">  
 
 Squid game, the glory ..   
-Well, just 5 years ago, only few ppl are interested in Kpop. My friend from other countries used to ask like "Do you know BTS" when I was in AUS.
-but suddely they started to ask "Have u watched Squid Game????".  
-yes. it's a big move. and we wanted to see the effect of the success of K-movie on Netflix.
+Well, just 5 years ago, I still remeber ppl from other countries asked about K-Pop. They used to ask like "Do you know BTS".
+But all of sudden they started to ask "Have u watched Squid Game????"
+Yes. Such a big move. isnt'it? That's why we tood this project to see the results with OpenAPI from travel data and Netflix Data.
+You can check the result 
 
 </div>
