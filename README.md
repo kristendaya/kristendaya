@@ -75,5 +75,5 @@ OpenAI의 API와 VectorDB를 활용하여 만든 챗봇으로 상담원의 역�
 # Netflix & Trip project :: The correlation between the success of K-contents on Netflix and travelers
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/74886046/273421693-4f53e9a1-be74-4997-ab08-3c8f62beb627.gif">  
 Data analysis
-
+넷플릭스에 페이지를 추가하고싶어서 진행한 프로젝트 
 </div>
