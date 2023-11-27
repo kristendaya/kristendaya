@@ -5,7 +5,7 @@
  
  # KRISTEN DAYA LEE  
 
-A junior web developer in Korea(AI/Back/Frontend)
+A junior web developer in Korea(AI/Back/Frontend)   
 always welcome to new projects and collaboration  
 Korean and English are available
 
